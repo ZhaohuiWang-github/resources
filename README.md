@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/category-resource-success)
+![](https://img.shields.io/badge/category-Resource-success)
 
 # resources
 Some useful resources
