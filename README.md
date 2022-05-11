@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/category-resource-success)
+
 # resources
 Some useful resources
 
